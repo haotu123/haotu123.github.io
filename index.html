@@ -2,6 +2,18 @@
 <html>
 <body>
 <h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+
+<video-js id=vid1 width=600 height=300 class="vjs-default-skin" controls>
+  <source
+     src="http://ivi.bupt.edu.cn/hls/cctv1.m3u8"
+     type="application/x-mpegURL">
+</video-js>
+<script src="video.js"></script>
+<script src="videojs-http-streaming.min.js"></script>
+<script>
+var player = videojs('vid1');
+player.play();
+</script>
+
 </body>
 </html>
