@@ -1,47 +1,35 @@
-- author: CCTV1
-  image: cctv1.jpg
+- image: cctv1.jpg
   link:
 
-- author: CCTV5
-  image: cctv5.jpg
+- image: cctv5.jpg
   link:
 
-- author: CCTV5+
-  image: cctv5plus.jpg
+- image: cctv5plus.jpg
   link:
 
-- author: CCTV13
-  image: cctv13.jpg
+- image: cctv13.jpg
   link:
 
-- author: CCTV3
-  image: cctv3.jpg
+- image: cctv3.jpg
   link:
 
-- author: CCTV8
-  image: cctv8.jpg
+- image: cctv8.jpg
   link:
 
-- author: 湖南卫视
-  image: HuNanWS.jpg
+- image: HuNanWS.jpg
   link:
 
-- author: 浙江卫视
-  image: ZheJiangWS.jpg
+- image: ZheJiangWS.jpg
   link:
 
-- author: 东方卫视
-  image: DongFangWS.jpg
+- image: DongFangWS.jpg
   link:
 
-- author: 江苏卫视
-  image: JiangSuWS.jpg
+- image: JiangSuWS.jpg
   link:
 
-- author: 安徽卫视
-  image: AnHuiWS.jpg
+- image: AnHuiWS.jpg
   link:
 
-- author: 广东体育
-  image: GuangDongTY.jpg
+- image: GuangDongTY.jpg
   link:
