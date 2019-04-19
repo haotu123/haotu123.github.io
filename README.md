@@ -1,5 +1,13 @@
-luoyan35714.github.io
-=====================
+# library-jekyll-theme
 
-Create the static blog site using [LessOrMore](https://github.com/luoyan35714/LessOrMore) which is a Jekyll theme.
+Easily create a digital bookshelf of your favorite books.
 
+[Demo](http://alexcarpenter.github.io/library-jekyll-theme/)
+
+## Author
+- [Website](http://alexcarpenter.me)
+- [Twitter](https://twitter.com/hybrid_alex)
+- [Github](https://github.com/alexcarpenter)
+
+## License
+[MIT](https://github.com/alexcarpenter/library-jekyll-theme/blob/master/LICENSE)
