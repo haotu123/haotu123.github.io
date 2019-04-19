@@ -3,7 +3,7 @@ layout: default
 ---
 <main class="shelf">
   {% for book in site.data.books  %}
-  <article class="book" align="center">
+  <article class="book">
     <figure class="book-cover">
       <a href="{{ book.link }}">
         <img src="./images/{{ book.image }}" alt="{{ book.title }}" width="120">
@@ -11,7 +11,7 @@ layout: default
     </figure>
     <div class="book-info">
       <h2>{{ book.title }}</h2>
-      <p>{{ book.author }}</p>
+      <p text-align:center>{{ book.author }}</p>
     </div>
   </article>
   {% endfor %}
