@@ -6,6 +6,10 @@
   image: cctv5.jpg
   link:
 
+- title: CCTV5+
+  image: cctv5plus.jpg
+  link:
+
 - title: CCTV13
   image: cctv13.jpg
   link:
@@ -36,4 +40,8 @@
 
 - title: 安徽卫视
   image: AnHuiWS.jpg
+  link:
+
+- title: 广东体育
+  image: GuangDongTY.jpg
   link:
