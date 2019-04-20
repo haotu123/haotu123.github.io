@@ -1,9 +1,6 @@
 - image: cctv1.jpg
   link: https://haotu123.github.io/cctv1.html
 
-- image: cctv5.jpg
-  link: https://haotu123.github.io/cctv5.html
-
 - image: cctv5plus.jpg
   link: https://haotu123.github.io/cctv5plus.html
 
@@ -16,20 +13,32 @@
 - image: cctv8.jpg
   link: https://haotu123.github.io/cctv8.html
 
-- image: HuNanWS.jpg
-  link:
-
-- image: ZheJiangWS.jpg
-  link:
-
-- image: DongFangWS.jpg
-  link:
+- image: BeiJingWS.jpg
+  link: https://haotu123.github.io/BeiJingWS.html
 
 - image: JiangSuWS.jpg
-  link:
+  link: https://haotu123.github.io/JiangSuWS.html
 
 - image: AnHuiWS.jpg
-  link:
+  link: https://haotu123.github.io/AnHuiWS.html
 
-- image: GuangDongTY.jpg
-  link:
+- image: ShenZhenWS.jpg
+  link: https://haotu123.github.io/ShenZhenWS.html
+
+- image: GuangDongWS.png
+  link: https://haotu123.github.io/GuangDongWS.html
+
+- image: TianJinWS.jpg
+  link: https://haotu123.github.io/TianJinWS.html
+
+- image: HuBeiWS.png
+  link: https://haotu123.github.io/HuBeiWS.html
+
+- image: HeiLongJiangWS.jpg
+  link: https://haotu123.github.io/HeiLongJiangWS.html
+
+- image: BeiJingJS.jpg
+  link: https://haotu123.github.io/BeiJingJS.html
+
+- image: KaTongMiaoMi.png
+  link: https://haotu123.github.io/KaTongMiaoMi.html
