@@ -1,6 +1,9 @@
 - image: cctv1.jpg
   link: https://haotu123.github.io/cctv1.html
 
+- image: cctv5.jpg
+  link: http://tv.cctv.com/live/cctv5/index.shtml?spm=C28340.P2qo7O8Q1Led.S87602.52&stime=1554895800&etime=1554904800&type=lbacks
+
 - image: cctv5plus.jpg
   link: https://haotu123.github.io/cctv5plus.html
 
