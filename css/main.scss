@@ -88,6 +88,7 @@ img {
   }
 
   @media (min-width: $mq-lg) {
+	align-items: center;
     -webkit-box-flex: 1;
     -webkit-flex: 1 0 25%;
         -ms-flex: 1 0 25%;
